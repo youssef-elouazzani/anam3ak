@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="220" viewBox="0 0 640 220" fill="none">
+  <defs>
+    <linearGradient id="g" x1="40" y1="30" x2="170" y2="190" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#004aad"/>
+      <stop offset="1" stop-color="#00357d"/>
+    </linearGradient>
+  </defs>
+  <rect x="18" y="18" width="184" height="184" rx="44" fill="#fff"/>
+  <rect x="18" y="18" width="184" height="184" rx="44" stroke="rgba(2,6,23,0.12)" stroke-width="4"/>
+  <path d="M64 122a56 56 0 0 1 112 0" stroke="url(#g)" stroke-width="14" stroke-linecap="round"/>
+  <path d="M84 122a36 36 0 0 1 72 0" stroke="#0f172a" stroke-opacity=".9" stroke-width="12" stroke-linecap="round"/>
+  <path d="M120 122v52" stroke="#0f172a" stroke-width="12" stroke-linecap="round"/>
+  <path d="M95 178h50" stroke="#0f172a" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="170" cy="70" r="9" fill="#22c55e"/>
+  <text x="230" y="108" font-family="Tajawal, Arial" font-size="58" font-weight="900" fill="#0f172a">AnaM3ak</text>
+  <text x="230" y="156" font-family="Tajawal, Arial" font-size="26" font-weight="800" fill="#475569">Trusted Services • Morocco • 2026</text>
+</svg>

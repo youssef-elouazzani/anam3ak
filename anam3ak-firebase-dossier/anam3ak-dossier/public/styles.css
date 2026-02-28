@@ -1,0 +1,11 @@
+:root{--primary:#004aad;--accent:#22c55e;--ink:#0f172a}
+body{font-family:'Plus Jakarta Sans','Tajawal',system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;background:#fff}
+.glass-nav{background:rgba(255,255,255,.78);backdrop-filter:blur(14px)}
+.hero-gradient{background:radial-gradient(circle at top right, rgba(0,74,173,.12), transparent 55%),radial-gradient(circle at bottom left, rgba(34,197,94,.10), transparent 55%),linear-gradient(180deg,#ffffff 0%,#fbfdff 55%,#ffffff 100%)}
+.card{transition:transform .25s ease, box-shadow .25s ease}
+.card:hover{transform:translateY(-8px);box-shadow:0 20px 45px rgba(2,6,23,.08)}
+.btn-primary{background:var(--primary);transition:transform .2s ease, box-shadow .2s ease, background .2s ease}
+.btn-primary:hover{transform:translateY(-1px);box-shadow:0 16px 30px rgba(0,74,173,.20);background:#003e93}
+.btn-soft{background:rgba(0,74,173,.08);color:var(--primary)}
+.ring-soft{box-shadow:0 0 0 1px rgba(15,23,42,.08) inset}
+.chip{border:1px solid rgba(15,23,42,.10);background:rgba(255,255,255,.75)}
